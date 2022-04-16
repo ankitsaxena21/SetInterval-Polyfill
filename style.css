@@ -1,0 +1,12 @@
+html, body {
+    box-sizing: border-box;
+}
+
+div {
+    height: 100vh;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
