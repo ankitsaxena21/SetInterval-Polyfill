@@ -48,7 +48,7 @@ let intervalID;
 function greeting(name) {
   counter++;
   console.log("Hello", name);
-  if (counter >= 3) {
+  if (counter >= 4) {
     customClearInterval(intervalID)
   }
 }
